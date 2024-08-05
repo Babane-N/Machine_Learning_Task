@@ -1,0 +1,5 @@
+Natural Language Toolkit
+ * ntlk
+textblob
+newspaper3k
+lxml_html_clean
